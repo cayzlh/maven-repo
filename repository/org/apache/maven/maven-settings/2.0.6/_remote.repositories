@@ -1,4 +1,4 @@
 #NOTE: This is an Aether internal implementation file, its format can be changed without prior notice.
 #Sat Apr 21 22:28:30 CST 2018
-common-0.1.pom>cayzlh-mvn-repo=
-common-0.1.jar>=
+maven-settings-2.0.6.jar>central=
+maven-settings-2.0.6.pom>central=

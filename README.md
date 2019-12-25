@@ -1,3 +1,23 @@
+## 使用
+
+pom文件中加入以下配置：
+
+```xml
+  <repositories>
+    <repository>
+      <id>maven-repo</id>
+      <url>https://raw.githubusercontent.com/cayzlh/maven-repo/master/</url>
+      <releases>
+        <enabled>true</enabled>
+      </releases>
+      <snapshots>
+        <enabled>false</enabled>
+      </snapshots>
+    </repository>
+```
+
+## 目录
+
 ```
 .
 ├── README.md

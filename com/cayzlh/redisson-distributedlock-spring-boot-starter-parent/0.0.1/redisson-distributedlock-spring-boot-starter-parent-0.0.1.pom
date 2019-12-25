@@ -135,7 +135,7 @@
         <artifactId>site-maven-plugin</artifactId>
         <version>0.12</version>
         <configuration>
-          <message>Maven artifacts for ${project.artifactId}, version: ${project.version}</message>
+          <message>maven artifacts for ${project.artifactId}, version: ${project.version}</message>
           <noJekyll>true</noJekyll>
           <outputDirectory>${project.build.directory}/maven-repo</outputDirectory><!--本地jar地址-->
           <branch>refs/heads/master</branch><!--分支的名称-->
